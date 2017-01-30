@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <advancedsettings>
     <cache>
-        <memorysize>209715200</memorysize>
+        <memorysize>157286400</memorysize>
         <buffermode>0</buffermode>
         <readfactor>20</readfactor>
     </cache>
